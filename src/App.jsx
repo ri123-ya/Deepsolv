@@ -1,8 +1,9 @@
+import Header from "./components/Headers";
 
 export default function App() {
     return (
         <div>
-            <h1>DeepSolv</h1>
+            <Header />
         </div>
     );
 }
